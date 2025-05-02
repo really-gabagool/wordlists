@@ -1,0 +1,653 @@
+Arizona Cardinals
+Atlanta Falcons
+Baltimore Ravens
+Buffalo Bills
+Carolina Panthers
+Chicago Bears
+Cincinnati Bengals
+Cleveland Browns
+Dallas Cowboys
+Denver Broncos
+Detroit Lions
+Green Bay Packers
+Houston Texans
+Indianapolis Colts
+Jacksonville Jaguars
+Kansas City Chiefs
+KCChiefs
+Las Vegas Raiders
+Los Angeles Chargers
+Los Angeles Rams
+Miami Dolphins
+Minnesota Vikings
+New England Patriots
+New Orleans Saints
+New York Giants
+New York Jets
+NYGiants
+NYJets
+Philadelphia Eagles
+Pittsburgh Steelers
+San Francisco 49ers
+SF49ers
+Seattle Seahawks
+Tampa Bay Buccaneers
+Tennessee Titans
+Washington Commanders
+Atlanta Hawks
+Boston Celtics
+Brooklyn Nets
+Charlotte Hornets
+Chicago Bulls
+Cleveland Cavaliers
+Dallas Mavericks
+Denver Nuggets
+Detroit Pistons
+Golden State Warriors
+Houston Rockets
+Indiana Pacers
+Los Angeles Clippers
+Los Angeles Lakers
+Memphis Grizzlies
+Miami Heat
+Milwaukee Bucks
+Minnesota Timberwolves
+New Orleans Pelicans
+New York Knicks
+Oklahoma City Thunder
+Orlando Magic
+Philadelphia 76ers
+Phoenix Suns
+Portland Trail Blazers
+Sacramento Kings
+San Antonio Spurs
+Toronto Raptors
+Utah Jazz 
+Washington Wizards
+Arizona Diamondbacks
+Atlanta Braves
+Baltimore Orioles
+Boston Red Sox
+Chicago Cubs
+Chicago White Sox
+Cincinnati Reds
+Cleveland Guardians
+Colorado Rockies
+Detroit Tigers
+Houston Astros
+Kansas City Royals
+Los Angeles Angels
+Los Angeles Dodgers
+Miami Marlins
+Milwaukee Brewers
+Minnesota Twins
+New York Mets
+New York Yankees
+NYMets
+NYYankees
+NY Mets
+NY Yankees
+Oakland Athletics
+Philadelphia Phillies
+Pittsburgh Pirates
+San Diego Padres
+San Francisco Giants
+Seattle Mariners
+St. Louis Cardinals
+Tampa Bay Rays
+Texas Rangers
+Toronto Blue Jays
+Washington Nationals
+Anaheim Ducks
+Arizona Coyotes
+Boston Bruins
+Buffalo Sabres
+Calgary Flames
+Carolina Hurricanes
+Chicago Blackhawks
+Colorado Avalanche
+Columbus Blue Jackets
+Dallas Stars
+Detroit Red Wings
+Edmonton Oilers
+Florida Panthers
+Los Angeles Kings
+Minnesota Wild
+Montreal Canadiens
+Nashville Predators
+New Jersey Devils
+New York Islanders
+New York Rangers
+Ottawa Senators
+Philadelphia Flyers
+Pittsburgh Penguins
+San Jose Sharks
+Seattle Kraken
+St. Louis Blues
+Tampa Bay Lightning
+Toronto Maple Leafs
+Vancouver Canucks
+Vegas Golden Knights
+Washington Capitals
+Winnipeg Jets
+Cardinals
+Falcons
+Ravens
+Bills
+Panthers
+Bears
+Bengals
+Browns
+Cowboys
+Broncos
+Lions
+Packers
+Texans
+Colts
+Jaguars
+Chiefs
+Raiders
+Chargers
+Rams
+Dolphins
+Vikings
+Patriots
+Saints
+Giants
+Jets
+Eagles
+Steelers
+49ers
+Seahawks
+Buccaneers
+Titans
+Commanders
+Hawks
+Celtics
+Nets
+Hornets
+Bulls
+Cavaliers
+Mavericks
+Nuggets
+Pistons
+Warriors
+Rockets
+Pacers
+Clippers
+Lakers
+Grizzlies
+Heat
+Bucks
+Timberwolves
+Pelicans
+Knicks
+Thunder
+Magic
+76ers
+Suns
+Trail Blazers
+Kings
+Spurs
+Raptors
+Jazz
+Wizards
+Diamondbacks
+Braves
+Orioles
+Red Sox
+Cubs
+White Sox
+Reds
+Guardians
+Rockies
+Tigers
+Astros
+Royals
+Angels
+Dodgers
+Marlins
+Brewers
+Twins
+Mets
+Yankees
+Athletics
+Phillies
+Pirates
+Padres
+Giants
+Mariners
+Cardinals
+Rays
+Rangers
+Blue Jays
+Nationals
+Ducks
+Coyotes
+Bruins
+Sabres
+Flames
+Hurricanes
+Blackhawks
+Avalanche
+Blue Jackets
+Stars
+Red Wings
+Oilers
+Panthers
+Kings
+Wild
+Canadiens
+Predators
+Devils
+Islanders
+Rangers
+Senators
+Flyers
+Penguins
+Sharks
+Kraken
+Blues
+Lightning
+Maple Leafs
+Canucks
+Knights
+Capitals
+Jets
+arizonacardinals
+atlantafalcons
+baltimoreravens
+buffalobills
+carolinapanthers
+chicagobears
+cincinnatibengals
+clevelandbrowns
+dallascowboys
+denverbroncos
+detroitlions
+greenbaypackers
+houstontexans
+indianapoliscolts
+jacksonvillejaguars
+kansascitychiefs
+kcchiefs
+lasvegasraiders
+losangeleschargers
+losangelesrams
+miamidolphins
+minnesotavikings
+newenglandpatriots
+neworleanssaints
+newyorkgiants
+newyorkjets
+nygiants
+nyjets
+philadelphiaeagles
+pittsburghsteelers
+sanfrancisco49ers
+sf49ers
+seattleseahawks
+tampabaybuccaneers
+tennesseetitans
+washingtoncommanders
+atlantahawks
+bostonceltics
+brooklynnets
+charlottehornets
+chicagobulls
+clevelandcavaliers
+dallasmavericks
+denvernuggets
+detroitpistons
+goldenstatewarriors
+houstonrockets
+indianapacers
+losangelesclippers
+losangeleslakers
+memphisgrizzlies
+miamiheat
+milwaukeebucks
+minnesotatimberwolves
+neworleanspelicans
+newyorkknicks
+oklahomacitythunder
+orlandomagic
+philadelphia76ers
+phoenixsuns
+portlandtrailblazers
+sacramentokings
+sanantoniospurs
+torontoraptors
+utahjazz
+washingtonwizards
+arizonadiamondbacks
+atlantabraves
+baltimoreorioles
+bostonredsox
+chicagocubs
+chicagowhitesox
+cincinnatireds
+clevelandguardians
+coloradorockies
+detroittigers
+houstonastros
+kansascityroyals
+losangelesangels
+losangelesdodgers
+miamimarlins
+milwaukeebrewers
+minnesotatwins
+newyorkmets
+newyorkyankees
+nymets
+nyyankees
+nymets
+nyyankees
+oaklandathletics
+philadelphiaphillies
+pittsburghpirates
+sandiegopadres
+sanfranciscogiants
+seattlemariners
+st.louiscardinals
+tampabayrays
+texasrangers
+torontobluejays
+washingtonnationals
+anaheimducks
+arizonacoyotes
+bostonbruins
+buffalosabres
+calgaryflames
+carolinahurricanes
+chicagoblackhawks
+coloradoavalanche
+columbusbluejackets
+dallasstars
+detroitredwings
+edmontonoilers
+floridapanthers
+losangeleskings
+minnesotawild
+montrealcanadiens
+nashvillepredators
+newjerseydevils
+newyorkislanders
+newyorkrangers
+ottawasenators
+philadelphiaflyers
+pittsburghpenguins
+sanjosesharks
+seattlekraken
+st.louisblues
+tampabaylightning
+torontomapleleafs
+vancouvercanucks
+vegasgoldenknights
+washingtoncapitals
+winnipegjets
+cardinals
+falcons
+ravens
+bills
+panthers
+bears
+bengals
+browns
+cowboys
+broncos
+lions
+packers
+texans
+colts
+jaguars
+chiefs
+raiders
+chargers
+rams
+dolphins
+vikings
+patriots
+saints
+giants
+jets
+eagles
+steelers
+49ers
+seahawks
+buccaneers
+titans
+commanders
+hawks
+celtics
+nets
+hornets
+bulls
+cavaliers
+mavericks
+nuggets
+pistons
+warriors
+rockets
+pacers
+clippers
+lakers
+grizzlies
+heat
+bucks
+timberwolves
+pelicans
+knicks
+thunder
+magic
+76ers
+suns
+trailblazers
+kings
+spurs
+raptors
+jazz
+wizards
+diamondbacks
+braves
+orioles
+redsox
+cubs
+whitesox
+reds
+guardians
+rockies
+tigers
+astros
+royals
+angels
+dodgers
+marlins
+brewers
+twins
+mets
+yankees
+athletics
+phillies
+pirates
+padres
+giants
+mariners
+cardinals
+rays
+rangers
+bluejays
+nationals
+ducks
+coyotes
+bruins
+sabres
+flames
+hurricanes
+blackhawks
+avalanche
+bluejackets
+stars
+redwings
+oilers
+panthers
+kings
+wild
+canadiens
+predators
+devils
+islanders
+rangers
+senators
+flyers
+penguins
+sharks
+kraken
+blues
+lightning
+mapleleafs
+canucks
+knights
+capitals
+jets
+messi
+gretzky
+lebron
+jordan
+woods
+tiger
+tigerwoods
+brady
+superbowl
+world series
+worldseries
+stanley cup
+stanleycup
+formula one
+formulaone
+shaq
+ronaldo
+beckham
+peyton manning
+manning
+jeter
+Michael Jordan
+Tiger Woods
+Serena Williams
+Lionel Messi
+Cristiano Ronaldo
+LeBron James
+Usain Bolt
+Roger Federer
+Tom Brady
+Kobe Bryant
+Michael Phelps
+Shaquille O'Neal
+Rafael Nadal
+Novak Djokovic
+Simone Biles
+Stephen Curry
+Peyton Manning
+Kevin Durant
+Derek Jeter
+Wayne Gretzky
+Manny Pacquiao
+Floyd Mayweather
+David Beckham
+Aaron Rodgers
+Mike Trout
+Sidney Crosby
+Lewis Hamilton
+Cristiano Ronaldo
+Lionel Messi
+Neymar Jr.
+Patrick Mahomes
+Giannis Antetokounmpo
+Russell Wilson
+Alex Ovechkin
+Venus Williams
+Phil Mickelson
+Drew Brees
+Kylian Mbappé
+Zlatan Ibrahimović
+James Harden
+Anthony Joshua
+Conor McGregor
+Lindsey Vonn
+Megan Rapinoe
+Carli Lloyd
+Eli Manning
+Chris Paul
+Damian Lillard
+Jimmy Butler
+Paul Pogba
+Gareth Bale
+Rob Gronkowski
+Kawhi Leonard
+J.J. Watt
+Clayton Kershaw
+Bryce Harper
+Fernando Alonso
+Max Verstappen
+Canelo Álvarez
+MichaelJordan
+TigerWoods
+SerenaWilliams
+LionelMessi
+CristianoRonaldo
+LeBronJames
+UsainBolt
+RogerFederer
+TomBrady
+KobeBryant
+MichaelPhelps
+ShaquilleO'Neal
+RafaelNadal
+NovakDjokovic
+SimoneBiles
+StephenCurry
+PeytonManning
+KevinDurant
+DerekJeter
+WayneGretzky
+MannyPacquiao
+FloydMayweather
+DavidBeckham
+AaronRodgers
+MikeTrout
+SidneyCrosby
+LewisHamilton
+CristianoRonaldo
+LionelMessi
+NeymarJr.
+PatrickMahomes
+GiannisAntetokounmpo
+RussellWilson
+AlexOvechkin
+VenusWilliams
+PhilMickelson
+DrewBrees
+KylianMbappé
+ZlatanIbrahimović
+JamesHarden
+AnthonyJoshua
+ConorMcGregor
+LindseyVonn
+MeganRapinoe
+CarliLloyd
+EliManning
+ChrisPaul
+DamianLillard
+JimmyButler
+PaulPogba
+GarethBale
+RobGronkowski
+KawhiLeonard
+J.J.Watt
+ClaytonKershaw
+BryceHarper
+FernandoAlonso
+MaxVerstappen
+CaneloÁlvarez
+
+
